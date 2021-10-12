@@ -1,4 +1,4 @@
-﻿PopCode ,Area,Year,Week,Sex,Age,AgeInterval,Deaths,Type,Access
+PopCode,Area,Year,Week,Sex,Age,AgeInterval,Deaths,Type,Access
 CHE,1,2000,1,m,0,5,4,O,O
 CHE,1,2000,1,m,5,5,0,O,O
 CHE,1,2000,1,m,10,5,2,O,O
