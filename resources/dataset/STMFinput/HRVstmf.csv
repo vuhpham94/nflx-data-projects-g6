@@ -1,4 +1,4 @@
-PopCode,Area,Year ,Week ,Sex,Age,AgeInterval,Deaths,Type,Access
+PopCode,Area,Year,Week,Sex,Age,AgeInterval,Deaths,Type,Access
 HRV,1,2000,1,m,0,5,3,O,O
 HRV,1,2000,1,m,5,5,0,O,O
 HRV,1,2000,1,m,10,5,1,O,O
