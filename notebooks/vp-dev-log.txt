@@ -1,2 +1,0 @@
-# vp working log
-fix .csv files and clean the merge dataset
